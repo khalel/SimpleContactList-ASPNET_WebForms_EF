@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head runat="server">
-    <title>Simple Contact List - ASP.NET Web Forms and Entity Framework with 3 Layered Approach (3-TIER)</title>
+    <title>Simple Contact List: Utilizing ASP.NET Web Forms and Entity Framework with Three Layered (N-Layered) Approach</title>
     <link href="Content/css/bootstrap.min.css" rel="stylesheet" />
     <link href="Content/css/bootstrap-flatly.css" rel="stylesheet" />
     <script src="Scripts/jquery-2.2.0.min.js"></script>
