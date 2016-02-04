@@ -47,3 +47,9 @@ Posted at my blog
 
 See live demo here
 > http://demo-simplecontactlist-aspnet-webforms-ef.erroldsanchez.com/
+
+### Database Setup:
+
+1. Run the script found here https://github.com/khalel/SimpleContactList-ASPNET_WebForms_EF/tree/master/Solution/SimpleContactListDAL/Scripts
+2. Update the connection string in the App.Config under SimpleContactListDAL project
+3. Update the connection string in the Web.Config under SimpleContactList project
