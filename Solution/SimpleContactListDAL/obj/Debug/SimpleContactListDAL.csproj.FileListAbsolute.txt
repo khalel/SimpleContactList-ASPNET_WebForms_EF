@@ -1,0 +1,16 @@
+C:\__Files\Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\bin\Debug\SimpleContactListDAL.dll.config
+C:\__Files\Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\bin\Debug\SimpleContactListDAL.dll
+C:\__Files\Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\bin\Debug\SimpleContactListDAL.pdb
+C:\__Files\Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\bin\Debug\EntityFramework.dll
+C:\__Files\Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\bin\Debug\EntityFramework.xml
+C:\__Files\Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\obj\Debug\SimpleContactListDAL.csprojResolveAssemblyReference.cache
+C:\__Files\Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\obj\Debug\SimpleContactListDAL.dll
+C:\__Files\Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\obj\Debug\SimpleContactListDAL.pdb
+C:\__Files\__Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\bin\Debug\SimpleContactListDAL.dll.config
+C:\__Files\__Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\bin\Debug\SimpleContactListDAL.dll
+C:\__Files\__Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\bin\Debug\SimpleContactListDAL.pdb
+C:\__Files\__Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\bin\Debug\EntityFramework.dll
+C:\__Files\__Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\bin\Debug\EntityFramework.xml
+C:\__Files\__Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\obj\Debug\SimpleContactListDAL.csprojResolveAssemblyReference.cache
+C:\__Files\__Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\obj\Debug\SimpleContactListDAL.dll
+C:\__Files\__Code Samples\ASP.NET\SimpleContactList_ASPNET_Webforms\SimpleContactListDAL\obj\Debug\SimpleContactListDAL.pdb
